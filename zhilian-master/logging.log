@@ -1,0 +1,81 @@
+2018-02-19 08:54:14,187 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:19,937 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%8C%97%E4%BA%AC&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:20,046 []
+2018-02-19 08:54:20,046 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:20,156 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E4%B8%8A%E6%B5%B7&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:20,265 []
+2018-02-19 08:54:20,281 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:20,375 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%B9%BF%E5%B7%9E&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:20,453 []
+2018-02-19 08:54:20,453 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:20,593 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:20,671 []
+2018-02-19 08:54:20,671 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:20,765 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%A4%A9%E6%B4%A5&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:20,859 []
+2018-02-19 08:54:20,859 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:20,953 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%AD%A6%E6%B1%89&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:21,031 []
+2018-02-19 08:54:21,031 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:21,125 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E8%A5%BF%E5%AE%89&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:21,203 []
+2018-02-19 08:54:21,218 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:21,328 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%88%90%E9%83%BD&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:21,406 []
+2018-02-19 08:54:21,406 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:21,500 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%A4%A7%E8%BF%9E&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:21,593 []
+2018-02-19 08:54:21,593 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:21,671 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E9%95%BF%E6%98%A5&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:21,750 []
+2018-02-19 08:54:21,750 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:21,859 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B2%88%E9%98%B3&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:21,953 []
+2018-02-19 08:54:21,953 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:22,046 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%8D%97%E4%BA%AC&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:22,125 []
+2018-02-19 08:54:22,125 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:22,234 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B5%8E%E5%8D%97&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:22,328 []
+2018-02-19 08:54:22,328 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:22,421 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E9%9D%92%E5%B2%9B&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:22,500 []
+2018-02-19 08:54:22,500 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:22,625 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%9D%AD%E5%B7%9E&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:22,703 []
+2018-02-19 08:54:22,718 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:22,812 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E8%8B%8F%E5%B7%9E&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:22,875 []
+2018-02-19 08:54:22,890 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:22,968 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%97%A0%E9%94%A1&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:23,031 []
+2018-02-19 08:54:23,031 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:23,140 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%AE%81%E6%B3%A2&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:23,203 []
+2018-02-19 08:54:23,203 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:23,312 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E9%87%8D%E5%BA%86&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:23,406 []
+2018-02-19 08:54:23,406 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:23,515 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E9%83%91%E5%B7%9E&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:23,609 []
+2018-02-19 08:54:23,609 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:23,718 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E9%95%BF%E6%B2%99&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:23,796 []
+2018-02-19 08:54:23,796 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:23,906 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E7%A6%8F%E5%B7%9E&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:23,953 []
+2018-02-19 08:54:23,968 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:24,046 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%8E%A6%E9%97%A8&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:24,109 []
+2018-02-19 08:54:24,109 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:24,187 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%93%88%E5%B0%94%E6%BB%A8&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:24,250 []
+2018-02-19 08:54:24,250 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:24,328 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E7%9F%B3%E5%AE%B6%E5%BA%84&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:24,468 []
+2018-02-19 08:54:24,468 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:24,578 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E5%90%88%E8%82%A5&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:24,687 []
+2018-02-19 08:54:24,703 Starting new HTTP connection (1): sou.zhaopin.com
+2018-02-19 08:54:24,765 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%83%A0%E5%B7%9E&kw=python HTTP/1.1" 200 None
+2018-02-19 08:54:24,812 []
