@@ -20,6 +20,7 @@
     <SUITE FILE_PATH="coverage/python_in_depth_study$pandasreadjson.coverage" NAME="pandasreadjson Coverage Results" MODIFIED="1519037357890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhilian" />
     <SUITE FILE_PATH="coverage/python_in_depth_study$pandas_to_plot.coverage" NAME="pandas_to_plot Coverage Results" MODIFIED="1519117951203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhilian" />
     <SUITE FILE_PATH="coverage/python_in_depth_study$mongodb_export_tojson.coverage" NAME="mongodb_export_tojson Coverage Results" MODIFIED="1519003355031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhilian" />
+    <SUITE FILE_PATH="coverage/python_in_depth_study$itchat_itchat.coverage" NAME="itchat_itchat Coverage Results" MODIFIED="1519134229875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weixinitchat" />
     <SUITE FILE_PATH="coverage/python_in_depth_study$zhilian_kw_spider.coverage" NAME="zhilian_kw_spider Coverage Results" MODIFIED="1519035971687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhilian" />
     <SUITE FILE_PATH="coverage/python_in_depth_study$kuaidi.coverage" NAME="kuaidi Coverage Results" MODIFIED="1519129456484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picdownload/kuaidi" />
     <SUITE FILE_PATH="coverage/python_in_depth_study$single_threading.coverage" NAME="single_threading Coverage Results" MODIFIED="1519129969359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picdownloadmthread" />
@@ -50,16 +51,6 @@
               <folding>
                 <element signature="e#127#136#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="time_study.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/timestudy/time_study.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -100,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/picdownloadmthread/multi_threading.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
-              <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+              <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding>
                 <element signature="e#127#136#0" expanded="true" />
               </folding>
@@ -108,13 +99,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weather.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weather.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weather/weather.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
-              <caret line="50" column="44" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+              <caret line="50" column="44" lean-forward="false" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
               <folding>
                 <element signature="e#47#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="itchat_itchat.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weixinitchat/itchat_itchat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+              <folding>
+                <element signature="e#75#90#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,6 +210,7 @@
         <option value="$PROJECT_DIR$/12306/searchTrain.py" />
         <option value="$PROJECT_DIR$/picdownloadmthread/multi_threading.py" />
         <option value="$PROJECT_DIR$/weather/weather.py" />
+        <option value="$PROJECT_DIR$/weixinitchat/itchat_itchat.py" />
       </list>
     </option>
   </component>
@@ -291,6 +295,11 @@
             <path>
               <item name="python_in_depth_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_in_depth_study" type="462c0819:PsiDirectoryNode" />
+              <item name="weixinitchat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_in_depth_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_in_depth_study" type="462c0819:PsiDirectoryNode" />
               <item name="xiecheng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,7 +345,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.weather">
+  <component name="RunManager" selected="Python.itchat_itchat">
+    <configuration name="itchat_itchat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weixinitchat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_in_depth_study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weixinitchat/itchat_itchat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="love" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,25 +422,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="single_threading" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/picdownloadmthread" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_in_depth_study" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picdownloadmthread/single_threading.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="weather" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,19 +442,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.single_threading" />
-      <item index="1" class="java.lang.String" itemvalue="Python.love" />
-      <item index="2" class="java.lang.String" itemvalue="Python.multi_threading" />
-      <item index="3" class="java.lang.String" itemvalue="Python.searchTrain" />
-      <item index="4" class="java.lang.String" itemvalue="Python.weather" />
+      <item index="0" class="java.lang.String" itemvalue="Python.love" />
+      <item index="1" class="java.lang.String" itemvalue="Python.multi_threading" />
+      <item index="2" class="java.lang.String" itemvalue="Python.searchTrain" />
+      <item index="3" class="java.lang.String" itemvalue="Python.weather" />
+      <item index="4" class="java.lang.String" itemvalue="Python.itchat_itchat" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.weather" />
-        <item index="1" class="java.lang.String" itemvalue="Python.searchTrain" />
-        <item index="2" class="java.lang.String" itemvalue="Python.multi_threading" />
-        <item index="3" class="java.lang.String" itemvalue="Python.love" />
-        <item index="4" class="java.lang.String" itemvalue="Python.single_threading" />
+        <item index="0" class="java.lang.String" itemvalue="Python.itchat_itchat" />
+        <item index="1" class="java.lang.String" itemvalue="Python.weather" />
+        <item index="2" class="java.lang.String" itemvalue="Python.searchTrain" />
+        <item index="3" class="java.lang.String" itemvalue="Python.multi_threading" />
+        <item index="4" class="java.lang.String" itemvalue="Python.love" />
       </list>
     </recent_temporary>
   </component>
@@ -473,10 +482,10 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="312" height="678" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14419226" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33110815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.259012" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34120172" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2990654" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71387696" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -512,13 +521,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zhilian/mongodb_to_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python34/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4860">
@@ -791,7 +793,7 @@
         <state relative-caret-position="459">
           <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
-            <element signature="e#75#89#0" expanded="true" />
+            <element signature="e#75#89#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -871,7 +873,7 @@
     <entry file="file://$PROJECT_DIR$/picdownloadmthread/multi_threading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding>
             <element signature="e#127#136#0" expanded="true" />
           </folding>
@@ -881,9 +883,19 @@
     <entry file="file://$PROJECT_DIR$/weather/weather.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
-          <caret line="50" column="44" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+          <caret line="50" column="44" lean-forward="false" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
           <folding>
             <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixinitchat/itchat_itchat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="e#75#90#0" expanded="true" />
           </folding>
         </state>
       </provider>
