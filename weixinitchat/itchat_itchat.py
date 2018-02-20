@@ -6,14 +6,14 @@ import requests
 import itchat
 import random
 
-KEY = '14740ba57d3849db867fa90e5bb8ac28'
+KEY = ''
 
 def get_response(msg):
     apiUrl = 'http://www.tuling123.com/openapi/api'
     data = {
         'key'    : KEY,
         'info'   : msg,
-        'userid' : 'antenna',
+        'userid' : '',
     }
     try:
         r = requests.post(apiUrl, data=data).json()
